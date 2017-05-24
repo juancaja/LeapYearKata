@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 public class LeapYearTest {
 	@Test
-	public void shouldWorkWithFour() throws Exception {
-		assertThat(LeapYear.isLeapYear(4), is(true));
+	public void /*DescriptiveTestFunctionName*/ () throws Exception { // First test
+		
 	}
 }

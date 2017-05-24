@@ -15,5 +15,8 @@
     "tests"
   ],
   "author": "Juan Caja",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "3.4.2"
+  }
 }
